@@ -7,3 +7,5 @@ selenium
 nltk
 scikit-learn
 kaggle
+geopy
+modin
