@@ -2,3 +2,8 @@ pandas
 numpy
 mxnet
 torch
+jupyter
+selenium
+nltk
+scikit-learn
+kaggle

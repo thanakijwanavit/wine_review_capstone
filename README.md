@@ -1,3 +1,5 @@
+# Summary of the capston project proposal
+[proposal](https://docs.google.com/document/d/1WrAO6wCVBD7zUqU_YKff3MjiQHl_E-YJaxXQ2UolNh0/edit?usp=sharing)
 Datasets and inputs
 1. The tasting data set used is from the Kaggle wine dataset version 41 by the magazine Winemag2.
 2. Temperature data is from Kaggle Global Warming database by @berkeleyearth3.
