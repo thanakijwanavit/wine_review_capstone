@@ -5,6 +5,22 @@ Datasets and inputs
 2. Temperature data is from Kaggle Global Warming database by @berkeleyearth3.
 3. GPS coordinates is extracted from Geopy library 201810
 
+Usage instruction
+
+Please view Report.pdf for the details about the result and analysis for the project.
+
+To replicate result
+1. install required packages ```pip install -r ./requirements.txt```
+2. run all the cells in ./wine_review_ai/data_pre_processing.ipynb
+3. for the data exploration reproduction run data exploration.ipynb
+4. for ratio model run ./wine_review_ai/ratio_output_models.ipynb
+5. for classification mode run ./wine_review_ai/classification_models.ipynb
+
+
+
+
+
+
 Reference
 1. Kaggle. 2019. Wine Reviews 130k wine reviews with variety, location, winery, price, and description. [ONLINE] Available at: https://www.kaggle.com/zynicide/wine-reviews. [Accessed 31 July 2019].
 2. Winemag. 2019. Wine Enthusiast. [ONLINE] Available at: http://www.winemag.com/?s=&drink_type=wine. [Accessed 31 July 2019].
